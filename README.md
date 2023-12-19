@@ -22,7 +22,7 @@
 
 ```
 git clone https://github.com/GENxSOLAR/A-Basic-Crowd-Funding-Project.git
-cd hardhat-fund-me-main
+cd A-Basic-Crowd-Funding-Project-main
 yarn
 ```
 
