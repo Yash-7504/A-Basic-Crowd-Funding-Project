@@ -7,6 +7,7 @@ import "./PriceConverter.sol";
 
 // 3. Interfaces, Libraries, Contracts
 error FundMe__NotOwner();
+error notOwner();
 
 /**@title A sample Funding Contract
  * @author Yash Venkat
